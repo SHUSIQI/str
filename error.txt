@@ -1,0 +1,7 @@
+Error: Can't set headers after they are sent.
+使用了多次send
+Error: listen EADDRINUSE :::3000
+端口占用，需要先关闭之前的
+RangeError: Invalid status code: 0
+响应的内容是数字，数字自动被认为是状态码
+
